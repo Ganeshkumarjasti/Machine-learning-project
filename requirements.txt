@@ -4,3 +4,4 @@ typing
 sklearn
 pandas
 -e .
+numpy
