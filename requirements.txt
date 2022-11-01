@@ -3,5 +3,6 @@ gunicorn
 typing
 sklearn
 pandas
--e .
 numpy
+pyYAML
+-e .
